@@ -386,12 +386,13 @@ You need also to get the code for the "<body>" section.
  </tr>
  <br>
 
+<tr>
  <li> 
 Note: If you already have a <strong>Google Tag Manager (GTM)</strong> account you can find the script in you Google Tag Manager account in Admin section, as seen in the screenshot.
 </li>                                    
 </td>
-
 </tr>
+
 <tr>
   <td>
      <div class="col-md-6">
@@ -399,6 +400,8 @@ Note: If you already have a <strong>Google Tag Manager (GTM)</strong> account yo
 </div>
   </td>
  </tr>
+ 
+ <tr>
  <br>
 
                                     <li>

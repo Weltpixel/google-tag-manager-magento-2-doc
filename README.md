@@ -405,15 +405,19 @@ Note: If you already have a <strong>Google Tag Manager (GTM)</strong> account yo
  </tr>
  <br>
 
-                                    <li>
+ <tr>
+  <td>
+     <div class="col-md-6">
+<li>
                                         Go to WeltPixel > Google Analytics Enhanced Ecommerce > General Configuration > Google Tag Manager Javascript Code and paste the code for "<head>" section in your magento store.
                                     </li>
                                     <li>
                                         Then go to WeltPixel > Google Analytics Enhanced Ecommerce > General Configuration > Google Tag Manager Non-Js Code and paste the code for "<body>" section in your magento store.
-                                    </li>
-                                    <br>
-                                     </td>
-</tr>
+                                    </li>  
+</div>
+  </td>
+ </tr>
+
 <tr>
   <td>
      <div class="col-md-6">

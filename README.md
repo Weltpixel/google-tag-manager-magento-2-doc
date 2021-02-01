@@ -428,5 +428,90 @@ Note: If you already have a <strong>Google Tag Manager (GTM)</strong> account yo
 </div>
   </td>
  </tr>
+ 
+ <br>
+  <tr>
+  <td width="100%">
+      <div class="col-md-6">
+<h3 style="font-weight: 600;">Step 4.</h3>
+<h2>HOW TO ADD GOOGLE TAG MANAGER GTM TO MAGENTO?</h2>
+<ul>
+                                    <li>
+                                        In Magento admin configure your <strong>Google Tag Manager (GTM) API Credentials</strong> in order to automatically link your store with your GTM account and create all default provided triggers automatically with one click.
+                                    </li>
+                                    <li>
+                                        For this you need to go to <strong>WeltPixel > Google Analytics Enhanced Ecommerce > GTM API Configuration</strong> and fill in Account ID, Container ID, Universal Analytics Tracking ID. All this information can be found in your
+<br>
+                                        <strong>Get information from Google Tag Manager and Google Analytics accounts.</strong
+                                    </li>
+                                    <li>
+                                        <strong>a)</strong> Go to Google Tag Manager (GTM) Identify the IDs in your GTM account like in the picture.
+                                    </li>
+                                    
+</td>
+</tr>
+                                    <tr>
+  <td>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_16.png"></p>
+</div>
+<br>
+                                    <li>
+                                        <strong>b)</strong> Go to Google Analytics (GA) You can see how to get your Universal Analytics ID credentials from your Google Analytics account.
+Tracking code is available under GA account > Admin > Property settings > Tracking ID as you can see in the picture.
+
+After you click you will find the Tracking ID you need.
+
+Note: Once you fill in the above ID’s save the GA settings in order not to lose the credentials on page refresh.
+                                    </li>
+                                    </td>
+</tr>
+                                    <tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_17.png"></p>
+</div>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%">
+      <div class="col-md-6">
+<h3 style="font-weight: 600;">Step 5.</h3>
+<ul>
+                                    <li>
+                                        After filling Accout ID, Container ID and Universal Analytics Tracking ID, hit Sign in to Google and allow to link your Google Tag Manager (GTM) account with your Magento Store
+You will be notified to save your credentials in order not to lose them before continuing with the process.
+
+Hit Save Config button.
+
+Note!: If, for any reason, the Sign in to Google functionality does not work for you, try out the JSON Export process as an alternative. You can find it by scrolling down to the last section of the extension options in the Magento Admin.
+                                   </li>
+                                   </td>
+</tr>
+                                    <tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_18.png"></p>
+</div>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%">
+      <div class="col-md-6">
+<h3 style="font-weight: 600;">Step 6A.</h3>
+<ul>
+                                    <li>
+                                        Go to WeltPixel > Google Analytics Enhanced Ecommerce > GTM API Configuration and hit Create Variables, Triggers and Tags button.
+
+You will be notified about the Variables, Triggers and Tags created.
+                                    </li>
+                                    </td>
+</tr>
+                                    <tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_19.png"></p>
+</div>
+</td>
+ </tr>
 </table>
  <h3>Download it now! <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel</a></h3>

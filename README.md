@@ -513,5 +513,102 @@ You will be notified about the Variables, Triggers and Tags created.
 </div>
 </td>
  </tr>
+ 
+ <tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_18.png"></p>
+</div>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%">
+      <div class="col-md-6">
+<h3 style="font-weight: 600;">Step 6A.</h3>
+<ul>
+                                    <li>
+                                        Go to WeltPixel > Google Analytics Enhanced Ecommerce > GTM API Configuration and hit Create Variables, Triggers and Tags button.
+
+You will be notified about the Variables, Triggers and Tags created.
+                                    </li>
+                                    </td>
+</tr>
+                                    <tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_19.png"></p>
+</div>
+</td>
+ </tr>
+ <tr>
+  <td width="100%">
+      <div class="col-md-6">
+<h3 style="font-weight: 600;">Step 6b.</h3>
+<ul>
+<p>
+As an alternative, if the Sign in to Google functionality does not work, you can export the configuration as a JSON and import it into your Google Tag Manager container.
+
+Note: After making any extension configuration changes, remember to re-generate the JSON and re-import and overwrite the existing GTM container to ensure your settings are picked up by Google.
+</P>
+<h2>GENERATE JSON.</h2>
+                                    <li>
+                                        Go to <strong>WeltPixel > Google Analytics Enhanced Ecommerce > JSON Export Options</strong> and hit the Generate Json for Variables, Triggers and Tags button.
+
+You will be notified that the JSON has been generated successfully and a <strong>Download JSON</strong> button will appear. Click the button to download the generated JSON.
+                                    </li>
+<h2>TAG MANAGER ADMIN.</h2>
+                                    <li>
+                                        Go to your Google Tag Manager Dashboard and access the <strong>Admin</strong> section and choose <strong>Import Container</strong>
+                                    </li>
+  </td>
+</tr>
+<tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_18.png"></p>
+</div>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%">
+      <div class="col-md-6">
+<h3 style="font-weight: 600;">Step 6A.</h3>
+<ul>
+                                    <li>
+                                        Go to WeltPixel > Google Analytics Enhanced Ecommerce > GTM API Configuration and hit Create Variables, Triggers and Tags button.
+
+You will be notified about the Variables, Triggers and Tags created.
+                                    </li>
+                                    </td>
+</tr>
+                                    <tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_19.png"></p>
+</div>
+</td>
+ </tr>
+ <tr>
+  <td width="100%">
+      <div class="col-md-6">
+<h3 style="font-weight: 600;">Step 6b.</h3>
+<ul>
+<p>
+As an alternative, if the Sign in to Google functionality does not work, you can export the configuration as a JSON and import it into your Google Tag Manager container.
+
+Note: After making any extension configuration changes, remember to re-generate the JSON and re-import and overwrite the existing GTM container to ensure your settings are picked up by Google.
+</P>
+<h2>GENERATE JSON.</h2>
+                                    <li>
+                                        Go to <strong>WeltPixel > Google Analytics Enhanced Ecommerce > JSON Export Options</strong> and hit the Generate Json for Variables, Triggers and Tags button.
+
+You will be notified that the JSON has been generated successfully and a <strong>Download JSON</strong> button will appear. Click the button to download the generated JSON.
+                                    </li>
+<h2>TAG MANAGER ADMIN.</h2>
+                                    <li>
+                                        Go to your Google Tag Manager Dashboard and access the <strong>Admin</strong> section and choose <strong>Import Container</strong>
+                                    </li>
+  </td>
+</tr>
 </table>
  <h3>Download it now! <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel</a></h3>

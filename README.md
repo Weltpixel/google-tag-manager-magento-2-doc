@@ -296,13 +296,6 @@
                                 <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
 <h2>How to configure the extension</h2>
 <table>
-
-
-
-
-
-
- 
 <tr>
   <td width="100%">
       <div class="col-md-6">

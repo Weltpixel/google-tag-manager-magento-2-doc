@@ -24,7 +24,7 @@
                             At a high level, Google Analytics Enhanced Ecommerce works like this: A small snippet of code is placed on your Magento 2 store, that is connected to the Tag Manager servers. A web based interface is used to install tracking codes on your store automatically. The benefits of this extension is that you usually will have to write no additional code to deploy or modify tracking codes for your marketing or analytics campaigns.                        </p>
                         <h3>Download Here: <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Tag Manager by WeltPixel.</a></h3>
                         <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
-</div></td>
+</td>
  </tr>
 </table>
 <br/>
@@ -294,18 +294,8 @@
                             <ul>
                                 <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
                                 <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
-</table>
 <h2>How to configure the extension</h2>
-
-
 <table>
-
-
-
-
-
-
- 
 <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -428,7 +418,6 @@ Note: If you already have a <strong>Google Tag Manager (GTM)</strong> account yo
 </div>
   </td>
  </tr>
- 
  <br>
   <tr>
   <td width="100%">
@@ -513,33 +502,6 @@ You will be notified about the Variables, Triggers and Tags created.
 </div>
 </td>
  </tr>
- 
- <tr>
-  <td>
-     <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_18.png"></p>
-</div>
-  </td>
- </tr>
- <tr>
-  <td width="100%">
-      <div class="col-md-6">
-<h3 style="font-weight: 600;">Step 6A.</h3>
-<ul>
-                                    <li>
-                                        Go to WeltPixel > Google Analytics Enhanced Ecommerce > GTM API Configuration and hit Create Variables, Triggers and Tags button.
-
-You will be notified about the Variables, Triggers and Tags created.
-                                    </li>
-                                    </td>
-</tr>
-                                    <tr>
-  <td>
-     <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_19.png"></p>
-</div>
-</td>
- </tr>
  <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -565,50 +527,83 @@ You will be notified that the JSON has been generated successfully and a <strong
 <tr>
   <td>
      <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_18.png"></p>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/gtm1-R.png"></p>
 </div>
   </td>
  </tr>
  <tr>
-  <td width="100%">
-      <div class="col-md-6">
-<h3 style="font-weight: 600;">Step 6A.</h3>
-<ul>
-                                    <li>
-                                        Go to WeltPixel > Google Analytics Enhanced Ecommerce > GTM API Configuration and hit Create Variables, Triggers and Tags button.
+ <h2>IMPORT JSON.</h2>
+ <li>
+ Click on the Choose container file button and find your previously generated and downloaded JSON file. Then, choose a workspace (you can choose an existing workspace or create a new one) and an import option.
 
-You will be notified about the Variables, Triggers and Tags created.
-                                    </li>
-                                    </td>
+When importing your container, you will have the option to merge the imported content with the selected workspace, or overwrite the workspace entirely. Overwriting the selected workspace will remove all your existing tags, triggers and variables in that workspace, and will replace them with the imported container.
+</li>
+</td>
 </tr>
                                     <tr>
   <td>
-     <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_19.png"></p>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/gtm2-L.png"></p>
 </div>
+<h2>PREVIEW AND CONFIRM.</h2>
+<li>
+After importing the generated JSON, a preview will show up letting you know the number of changes made to the container. There should be Tags, Triggers and Variables created or updated in various amounts depending on your Magento Admin settings. Click on Confirm and you should be done with importing your settings!
+</li>
 </td>
- </tr>
- <tr>
-  <td width="100%">
-      <div class="col-md-6">
-<h3 style="font-weight: 600;">Step 6b.</h3>
-<ul>
-<p>
-As an alternative, if the Sign in to Google functionality does not work, you can export the configuration as a JSON and import it into your Google Tag Manager container.
-
-Note: After making any extension configuration changes, remember to re-generate the JSON and re-import and overwrite the existing GTM container to ensure your settings are picked up by Google.
-</P>
-<h2>GENERATE JSON.</h2>
-                                    <li>
-                                        Go to <strong>WeltPixel > Google Analytics Enhanced Ecommerce > JSON Export Options</strong> and hit the Generate Json for Variables, Triggers and Tags button.
-
-You will be notified that the JSON has been generated successfully and a <strong>Download JSON</strong> button will appear. Click the button to download the generated JSON.
-                                    </li>
-<h2>TAG MANAGER ADMIN.</h2>
-                                    <li>
-                                        Go to your Google Tag Manager Dashboard and access the <strong>Admin</strong> section and choose <strong>Import Container</strong>
-                                    </li>
-  </td>
 </tr>
-</table>
+                                    <tr>
+  <td>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/gtm3-R.png"></p>
+</div>
+<h2>Step 7.</h2>
+<li>
+After all your tags have been created in Google Tag Manager (GTM), go to Google Tag Manager (GTM) account and PUBLISH / SUBMIT all your tags by following the steps from Google Tag Manager.
+</li>
+<li>
+! NOTE: If the container is not published/submitted in your GTM account, no tracking will be available. Make sure to publish your container.
+</li>
+<li>
+!! NOTE 2: Displaying statistics in your Google Analytics account based on tracked data could take from 30 minutes from 48 hours according to GTM Documentation. However, real time data shoud be visible right away if your account is correctly setup.
+</li>
+</td>
+</tr>
+                                    <tr>
+  <td>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_20.png"></p>
+</div>
+<h2>Step 8.</h2>
+<li>
+In your Google Analytics account, go to <strong>Admin > Ecommerce Settings</strong> in order to define the labels for checkout-funnel steps.
+</li>
+</td>
+</tr>
+                                    <tr>
+  <td>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_20.png"></p>
+</div>
+<h2>CHECKOUT STEPS E-COMMERCE SETUP.</h2>
+<h2>Step 9.</h2>
+<h2>HOW TO INTEGRATE GOOGLE ANALYTICS WITH MAGENTO 2</h2>
+In order to activate your conversion sections of your Google Analytics dashboard you have to:
+<li>
+a. Enable Ecommerce
+</li>
+<li>
+b. Enable Enhanced Ecommerce Reporting
+</li>
+<li>
+c. Add Checkout Labeling (Funnel Steps). Each store can have different checkout steps, so make sure to identify your checkout steps using GTM debugger (GTM container preview) before adding them here in order to avoid wrong tracking. Here is a common Magento checkout funnel example:
+</li>
+<li>
+Shipping
+</li>
+<li>
+Shipping Method
+</li>
+<li>
+Payment and Billing
+</li>
+<li>
+d. Save Ecommerce set-up.
+</li>
+More details about Checkout funnels here: <h5><a href="https://support.google.com/analytics/answer/6014872?hl=en">How to setup Enhanced Ecommerce reports (Google Documentation)</a></h5>
  <h3>Download it now! <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel</a></h3>

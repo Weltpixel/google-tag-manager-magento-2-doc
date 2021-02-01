@@ -313,7 +313,15 @@
 <ul>
                             <li>
                                 <p>
-                                    Head to <strong> Content > Pages</strong> or <strong>Content > Blocks</strong>. From here, the steps are the same for Pages or for Blocks. Edit the page or block content.
+                                    Go to <strong> Admin > Store > Configuration > Sales > Google API > Google Analytics ></strong> and set this option to [ No ].
+                                    </li>
+<li>
+                                    Go to <strong> Admin > Store > Configuration > Sales > Google API > Google Adwords ></strong> and set this option to [ No ].
+                                    </li>
+<br>
+                                    <li>
+                                      Go to <strong> WeltPixel > Google Analytics Enhanced Ecommerce > General Configuration > Enable Google Tag Manager</strong> and set this option to [ Yes ].
+                                      </li>
                                 </p>
                             </li>
                         </ul>
@@ -323,7 +331,7 @@
  <tr> 
   <td>
      <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-instagram/widget-demo.png"></p>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_11.png"></p>
 </div>
   </td>
  </tr>
@@ -335,7 +343,12 @@
 <ul>
                             <li>
                                 <p>
-                                    Click on the <strong>Insert Widget</strong> button, select the <strong>WeltPixel Instagram Widget</strong> and configure the Widget Options.
+                                    You need to create a Google Tag Manager account if you don’t have one already at this link: 
+
+https://www.google.com/analytics/tag-manager/
+                                    </li>
+                                      <li>
+                                       Setup Account name, Setup Container from yout Google Tag Manager like in the image.
                                 </p>
                             </li>
                         </ul>
@@ -346,7 +359,7 @@
 <tr>
   <td>
      <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-instagram/img_9.png"></p>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_12.png"></p>
 </div>
   </td>
  </tr>
@@ -356,109 +369,62 @@
   <td width="100%">
       <div class="col-md-6">
 <h3 style="font-weight: 600;">Step 3.</h3>
+<h2>HOW TO SETUP GOOGLE UNIVERSAL ANALYTICS IN MAGENTO?</h2>
 <ul>
+<br>
                             <li>
                                 <p>
-                                    The Magento 2 Instagram Feed Widget is a simple way to add Instagram photos to your site. Setting up the widget is quite easy.
-                                </p>
-                                <ul>
-                                    <li>
-                                        <strong>Instagram Api Type</strong> - Starting with version 1.9.2 of the extension, the Instagram API is deprecated. If you're setting up the extension for the fist time, please select the <strong>Javascript Fetching</strong> option. 
-                                    </li>
-                                    <li>
-                                        <strong>Title</strong> - Insert a title for the widget.
-                                    </li>
-                                    <li>
-                                        <strong>Description</strong> - Insert a short description.
-                                    </li>
-                                    <li>
-                                        <strong>Container Background Color</strong> - Select the color that you want to use as a background for the widget.
-                                    </li>
-                                    <li>
-                                        <strong>Open Images in New Tab</strong> - Choose whether or not to open the image in a new tab when clicked on.
-                                    </li>
-                                    <li>
-                                        <strong>Images Per Row</strong> - Select from 2-6 images that you want to have on an single row.
-                                    </li>
-                                    <li>
-                                        <strong>Images Should Have Padding</strong> - Choose whether or not to insert padding between the images.
-                                    </li>
-                                    <li>
-                                        <strong>Add ALT text for image</strong> - Choose whether or not to generate Alt text for images in the feed. You can use Alt Tags as they come from Instagram, or add a custom value.
-                                    </li>
-                                    <li>
-                                        <strong>Enable Lazy Image Load</strong> - Choose whether or not to load images in the feed via Lazy Loading (requires the <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html" target="blank">Lazy Load Products and Images</a> extension).
-                                    </li>
-                                    <li>
-                                        <strong>Optimize Image Layout</strong> - This option will take your Instagram pictures that have random ratios and find the best match to showcase them in your web page while keeping the same picture ratio and not adding any white spaces. For this option to work, you'll need to set the resolution of your images below to <strong>Original Image Size</strong>.
-                                    </li>
-                                    <li>
-                                        <strong>Content Cache Time</strong> - The time (in minutes) that Instagram images are cached in the user's browser. The default value is 60 minutes. This setting is useful for avoiding Instagram restrictions in the case of active users on the website.
-                                    </li>
-                                    <li>
-                                        <strong>Limit</strong> - Set the maximum number of images to be added.
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-</div>
-  </td>
+                                    Once the account is created get the Google Tag Manager (GTM) scripts in admin section of your Magento 2 store WeltPixel > Google Analytics Enhanced Ecommerce > General Configuration.
+You need also to get the code for the "<body>" section.
+</li>
+</td>
+
 </tr>
 <tr>
   <td>
      <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-instagram/widget-options.png"></p>
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_13.png"></p>
 </div>
   </td>
  </tr>
- 
- 
- <tr>
-  <td width="50%">
-      <div class="col-md-6">
-<h3 style="font-weight: 600;">Step 4.</h3>
-<ul>
-                            </li>
-                                    <li>
-                                        <strong>Resolution</strong> - Size of the images displayed. The available options are:
-                                        <ul>
-                                            <li>
-                                                150x150.
-                                            </li>
-                                            <li>
-                                                240x240.
-                                            </li>
-                                            <li>
-                                                320x320.
-                                            </li>
-                                            <li>
-                                                480x480.
-                                            </li>
-                                            <li>
-                                                640x640.
-                                            </li>
-                                            <li>
-                                                Original Image Size. Works in conjunction with the <strong>Optimize Image Layout</strong> option. 
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Feed Type</strong> - You can choose between <strong>User</strong> and <strong>Tag.</strong> 
-                                    </li>
-                                    <li>
-                                        <strong>User Name</strong> - User Name of the user whose images you want to use.
-                                    </li>
-                                    <li>
-                                        <strong>Tag Name</strong> - Images tagged with the tag you set here will be displayed on your feed.
-                                    </li>
-                                </ul>
-</div>
-  </td>
-</tr>
-<tr> 
+ <br>
+
+<tr>
   <td>
      <div class="col-md-6">
-<p><img src="https://www.weltpixel.com/media/wysiwyg/product-instagram/widget-options2.png"></p>
+<li> 
+Note: If you already have a <strong>Google Tag Manager (GTM)</strong> account you can find the script in you Google Tag Manager account in Admin section, as seen in the screenshot.
+</li>   
+</div>
+  </td>
+ </tr>
+
+<tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_14.png"></p>
+</div>
+  </td>
+ </tr>
+ <br>
+
+ <tr>
+  <td>
+     <div class="col-md-6">
+<li>
+                                        Go to WeltPixel > Google Analytics Enhanced Ecommerce > General Configuration > Google Tag Manager Javascript Code and paste the code for "<head>" section in your magento store.
+                                    </li>
+                                    <li>
+                                        Then go to WeltPixel > Google Analytics Enhanced Ecommerce > General Configuration > Google Tag Manager Non-Js Code and paste the code for "<body>" section in your magento store.
+                                    </li>  
+</div>
+  </td>
+ </tr>
+
+<tr>
+  <td>
+     <div class="col-md-6">
+<p><img src="https://www.weltpixel.com/media/wysiwyg/product-google-analitics/img_11.png"></p>
 </div>
   </td>
  </tr>

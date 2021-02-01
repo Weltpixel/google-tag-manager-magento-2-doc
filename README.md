@@ -606,4 +606,5 @@ Payment and Billing
 d. Save Ecommerce set-up.
 </li>
 More details about Checkout funnels here: <h5><a href="https://support.google.com/analytics/answer/6014872?hl=en">How to setup Enhanced Ecommerce reports (Google Documentation)</a></h5>
+</table>
  <h3>Download it now! <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel</a></h3>

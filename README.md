@@ -1,11 +1,11 @@
-<h1><a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html"><img src="https://www.weltpixel.com/media/catalog/product/0/1/01._google_tag_manager_2_1_1_.png" alt="Google Tag Manager"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/0/1/01._google_tag_manager_2_1_1_.png" alt="Google Tag Manager"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
 <h1>About the Google Tag Manager for Magento 2.</h1>
                         <p>
@@ -23,8 +23,8 @@
                         <p>
                             At a high level, Google Analytics Enhanced Ecommerce works like this: A small snippet of code is placed on your Magento 2 store, that is connected to the Tag Manager servers. A web based interface is used to install tracking codes on your store automatically. The benefits of this extension is that you usually will have to write no additional code to deploy or modify tracking codes for your marketing or analytics campaigns.                        
    </p>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Tag Manager by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Google Tag Manager by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
    </div></td>
  </tr>
 </table>
@@ -209,7 +209,7 @@
                 <br>
                  <li>
                 <strong>Step 4: </strong><br>
-                  In your browser go to www.yourmagentostore.com/<strong>weltpixel-extension-installation/</strong> and simply follow the installation steps from the graphical interface, presented in your browser. See the installation video: <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html#video-installation" target="blank">1 Minute Module Installation via browser GUI.</a>
+                  In your browser go to www.yourmagentostore.com/<strong>weltpixel-extension-installation/</strong> and simply follow the installation steps from the graphical interface, presented in your browser. See the installation video: <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html#video-installation?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="blank">1 Minute Module Installation via browser GUI.</a>
                  </li>
                <li>
                 <strong>Step 5: </strong><br>
@@ -310,8 +310,8 @@
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
 <h1>HOW TO CONFIGURE GOOGLE ANALYTICS IN MAGENTO?</h1>
  <tr>
   <td width="100%">
@@ -831,7 +831,7 @@ Note 2: If you would like to receive even more personalized tracking data, you c
 <strong>Order Success Page Total Calculation [ Subtotal / Grandtotal ]</strong> - Calculates total amount on success page based on Subtotal or Grandtotal
 </li>
 <li>
-<strong>Measure Product Clicks</strong> - This option allows ‘Product Click’ tracking on Category Page , Search results page and Related/Cross-sell/Up-sell product grids. If Product Click Tracking is enabled this option rewrites Magento_Catalog::product/list.phtml and Magento_Catalog::product/list/list.phtml. If you are using a custom theme/extension already re-writing this templates check here how you can make the necessary compatibility adjustments: <h5><a href="https://support.weltpixel.com/hc/en-us/articles/115006195028-How-to-solve-compatibility-issues-Google-Tag-Manager-Enhanced-Ecommerce">How to solve GTM compatibility issues</a></h5>
+<strong>Measure Product Clicks</strong> - This option allows ‘Product Click’ tracking on Category Page , Search results page and Related/Cross-sell/Up-sell product grids. If Product Click Tracking is enabled this option rewrites Magento_Catalog::product/list.phtml and Magento_Catalog::product/list/list.phtml. If you are using a custom theme/extension already re-writing this templates check here how you can make the necessary compatibility adjustments: <h5><a href="https://support.weltpixel.com/hc/en-us/articles/115006195028-How-to-solve-compatibility-issues-Google-Tag-Manager-Enhanced-Ecommerce?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">How to solve GTM compatibility issues</a></h5>
 </td>
 </tr>
                                     <tr>
@@ -1205,4 +1205,4 @@ After your setup all your tags make sure that you publish all your changes. Go t
 </td>
 </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/google-analytics-enhanced-ecommerce-tag-manager-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Google Analytics Enhanced Ecommerce UA GTM Tracking by Weltpixel</a></h3>
